@@ -6,3 +6,4 @@ C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.exe
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.frmBaiToan1.resources
