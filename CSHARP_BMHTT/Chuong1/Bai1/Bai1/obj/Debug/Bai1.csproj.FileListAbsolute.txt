@@ -1,0 +1,8 @@
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai1\Bai1\obj\Debug\Bai1.pdb
