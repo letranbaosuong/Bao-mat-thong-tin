@@ -1,0 +1,9 @@
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\obj\Debug\Bai3.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\obj\Debug\Bai3.frmBai3.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\obj\Debug\Bai3.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai3\Bai3\obj\Debug\Bai3.pdb
