@@ -1,4 +1,4 @@
-# Bảo Mật Thông Tin
+# Bảo Mật Thông Tin - Gia Đinh University
 
 Họ và tên: **<u>Lê Trần Bảo Sương</u>**
 
