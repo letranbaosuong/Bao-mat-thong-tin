@@ -1,0 +1,10 @@
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe.config
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.frmMaHoaGiaiMa.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.StartUp.resources
