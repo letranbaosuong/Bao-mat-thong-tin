@@ -1,0 +1,9 @@
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\bin\Debug\GiaNgauNhien.exe.config
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\bin\Debug\GiaNgauNhien.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\bin\Debug\GiaNgauNhien.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\obj\Debug\GiaNgauNhien.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\obj\Debug\GiaNgauNhien.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\obj\Debug\GiaNgauNhien.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\obj\Debug\GiaNgauNhien.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\obj\Debug\GiaNgauNhien.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong3\GiaNgauNhien\GiaNgauNhien\obj\Debug\GiaNgauNhien.frmGiaNgauNhien.resources
