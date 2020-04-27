@@ -2,37 +2,25 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:text="@string/progress_bar"
-        android:textSize="30sp" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:text="@string/tutorials_point"
-        android:textColor="#ff16ff01"
-        android:textSize="35sp" />
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/progress_status"
+        android:textSize="25sp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_marginStart="125dp"
-        android:layout_marginLeft="125dp"
-        android:onClick="download"
-        android:text="@string/download" />
+        android:layout_below="@id/tv"
+        android:layout_marginTop="10dp"
+        android:text="@string/start_operation" />
 
 </RelativeLayout>
