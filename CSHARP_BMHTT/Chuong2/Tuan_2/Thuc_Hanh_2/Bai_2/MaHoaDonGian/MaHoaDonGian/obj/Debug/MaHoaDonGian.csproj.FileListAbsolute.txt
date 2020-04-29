@@ -8,3 +8,4 @@ C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Th
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.exe
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.pdb
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.StartUp.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.CoreCompileInputs.cache
