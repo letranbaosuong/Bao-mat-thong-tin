@@ -11,8 +11,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static com.gdu.letranbaosuong.dhpm11.des.Des._decrypt;
-import static com.gdu.letranbaosuong.dhpm11.des.Des._encrypt;
+import static com.gdu.letranbaosuong.dhpm11.des.TrippleDes._decrypt;
+import static com.gdu.letranbaosuong.dhpm11.des.TrippleDes._encrypt;
 
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;

@@ -38,7 +38,7 @@
         android:id="@+id/outputText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="ncI1NPu0s3c="
         app:layout_constraintBottom_toTopOf="@+id/encBtn"
         app:layout_constraintEnd_toEndOf="@+id/inputPassword"
         app:layout_constraintHorizontal_bias="0.5"

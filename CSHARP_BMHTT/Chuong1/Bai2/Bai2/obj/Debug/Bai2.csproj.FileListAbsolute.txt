@@ -7,3 +7,4 @@ C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai2\Bai2
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.exe
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache

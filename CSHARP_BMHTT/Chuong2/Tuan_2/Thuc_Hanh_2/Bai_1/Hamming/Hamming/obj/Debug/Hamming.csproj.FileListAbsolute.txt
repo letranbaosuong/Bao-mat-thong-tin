@@ -7,3 +7,13 @@ C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\Tuan_2\Thuc_Hanh_2\Bai_1\Hammi
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.exe
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.pdb
 C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.frmHamming.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.frmHamming.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.csproj.GenerateResource.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.csproj.CoreCompileInputs.cache
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\letra\OneDrive\Desktop\Bao-mat-thong-tin\CSHARP_BMHTT\Chuong2\Tuan_2\Thuc_Hanh_2\Bai_1\Hamming\Hamming\obj\Debug\Hamming.pdb
